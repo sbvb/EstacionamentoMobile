@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/sbvb/Dropbox/guidance/2015/mobile_cloud/2015_2/EstacionamentoMobile/Android2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/home/sbvb/Dropbox/guidance/2015/mobile_cloud/2015_2/EstacionamentoMobile/Android2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_3b1b25bdba0c10179d895de27f09257c99201464.jar" />
+    </item>
+    <item
+        jar="/home/sbvb/Dropbox/guidance/2015/mobile_cloud/2015_2/EstacionamentoMobile/Android2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/home/sbvb/Dropbox/guidance/2015/mobile_cloud/2015_2/EstacionamentoMobile/Android2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_c453811fd2f83a92a5d6bad3e0b12628ed0b27a3.jar" />
+    </item>
+    <item
+        jar="/home/sbvb/Dropbox/guidance/2015/mobile_cloud/2015_2/EstacionamentoMobile/Android2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/home/sbvb/Dropbox/guidance/2015/mobile_cloud/2015_2/EstacionamentoMobile/Android2/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_8bc0525a86a7819f093427d5d3ef6d2b10c01659.jar" />
+    </item>
+    <item
+        jar="/home/sbvb/Dropbox/guidance/2015/mobile_cloud/2015_2/EstacionamentoMobile/Android2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="/home/sbvb/Dropbox/guidance/2015/mobile_cloud/2015_2/EstacionamentoMobile/Android2/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.0_a1566f7fb8d1229631320c35d9fc06ad1e9eb9cf.jar" />
+    </item>
+    <item
+        jar="/home/sbvb/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/home/sbvb/Dropbox/guidance/2015/mobile_cloud/2015_2/EstacionamentoMobile/Android2/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_99bf86e2f77d65b3e103ec0cd1647470b21036eb.jar" />
+    </item>
+    <item
+        jar="/home/sbvb/Dropbox/guidance/2015/mobile_cloud/2015_2/EstacionamentoMobile/Android2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/home/sbvb/Dropbox/guidance/2015/mobile_cloud/2015_2/EstacionamentoMobile/Android2/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_4cafc820c7f9815a41abdd12b9f48a74edd5132f.jar" />
+    </item>
+    <item
+        jar="/home/sbvb/Dropbox/guidance/2015/mobile_cloud/2015_2/EstacionamentoMobile/Android2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/home/sbvb/Dropbox/guidance/2015/mobile_cloud/2015_2/EstacionamentoMobile/Android2/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_f0df3ac0e763ecf39254562410f5ea900e24bdd3.jar" />
+    </item>
+    <item
+        jar="/home/sbvb/Dropbox/guidance/2015/mobile_cloud/2015_2/EstacionamentoMobile/Android2/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="/home/sbvb/Dropbox/guidance/2015/mobile_cloud/2015_2/EstacionamentoMobile/Android2/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.0_0ffa245baccd6b61dc4f01a41eba036b087ce98d.jar" />
+    </item>
+
+</items>
